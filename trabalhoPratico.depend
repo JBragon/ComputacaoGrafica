@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1601555164 source:c:\users\j.bragon\documents\ufop\computação gráfica\trabalhopratico\carregararquivo2.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<string>
+
+1629954202 source:c:\users\j.bragon\documents\ufop\computação gráfica\trabalhopratico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"CarregarArquivo2.cpp"
+
+1601555164 c:\users\j.bragon\documents\ufop\computação gráfica\trabalhopratico\carregararquivo2.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<string>
+
